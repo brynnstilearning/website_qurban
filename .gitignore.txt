@@ -1,0 +1,14 @@
+# Runtime files
+
+# Laragon
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
